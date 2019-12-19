@@ -1,0 +1,13 @@
+body{
+    background: green;
+}
+.card{
+    border: 0;
+}
+.inv{
+    transform: rotate(180deg);
+}
+.ext{
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0 rgb(0, 0, 0, 0.5);
+}
